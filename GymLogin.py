@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-loginID = '29003008330509'
-AccountPIN = '647319'
+loginID = ''
+AccountPIN = ''
 pagenumberXPath = '/html/body/div[1]/div[2]/div[2]/div[2]/div/div/div[1]/div[3]/div/table/tbody/tr[5]/td/div[3]/div/div/div[2]/div[2]/span/a[2]'
 addbuttonXPath = '/html/body/div[1]/div[2]/div[2]/div[2]/div/div/div[1]/div[3]/div/table/tbody/tr[5]/td/div[3]/div/div/table/tbody/tr[6]/td[9]/table/tbody/tr[1]/td/span/span/a'
 path = 'C:\Program Files (x86)\chromedriver.exe'
